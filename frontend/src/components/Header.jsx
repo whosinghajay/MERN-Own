@@ -34,7 +34,7 @@ const Header = () => {
             <Link to="/about">
               <FcAbout className="mr-7" size={20}/>
             </Link>
-            <Link to="/login">
+            <Link to="/signup">
               <AiOutlineLogin className="mr-7" size={20}/>
             </Link>
           </div>
