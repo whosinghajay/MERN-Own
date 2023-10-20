@@ -11,8 +11,10 @@ const Header = () => {
       <header className="bg-blue-100 shadow-md">
         <div className="flex justify-between items-center max-w-6xl mx-auto p-3">
           <h1 className="font-bold text-sm sm:text-xl flex flex-wrap">
+            <span className="text-orange-700">ੴ  &nbsp;</span>
             <span className="text-slate-700">Parma</span>
             <span className="text-yellow-400">tama</span>
+            {/* <span className="text-orange-700">&nbsp;ॐ</span> */}
           </h1>
           <form className="bg-slate-100 p-3 rounded-lg flex items-center">
             <input
